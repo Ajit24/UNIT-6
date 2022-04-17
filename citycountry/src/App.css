@@ -36,29 +36,3 @@
     transform: rotate(360deg);
   }
 }
-.navbar{
-  width: 60%;
-  margin: auto;
-  display: flex;
-  justify-content: space-between;
-}
-.buttNav{
-  font-size: 25px;
-}
-
-.countryNameInp{
-  font-size: 28px;
-}
-
-.countryNameInpcity{
-  font-size: 20px;
-}
-
-
-.cityInp{
-  margin-right: 20px;
-}
-
-.Addcity{
-  font-size: 30px;
-}
